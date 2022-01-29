@@ -23,6 +23,8 @@ $ cd ~/<my_working_directory>
 $ wget https://github.com/opencv/opencv/archive/3.2.0.tar.gz
 $ wget https://github.com/opencv/opencv_contrib/archive/3.2.0.tar.gz
 
+tar -xf 3.2.0.ta.gz
+
 $ cd opencv-3.2.0
 $ mkdir build
 $ cd build
